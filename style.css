@@ -1,0 +1,53 @@
+body{
+    background: red;
+    
+
+}
+#About{
+    color: blue;
+}
+
+.phonenumber {
+    color: white;
+}
+.picture {width:200px;
+height: 200px;}
+#Barcelona {
+    width: 200px;
+    height: 200px;
+}
+#Beach {
+    width: 200px;
+    height: 200px;
+}
+#Password {
+    width: 200px;
+    height: 200px;
+}
+#Portfolio {
+    width: 200px;
+    height: 200px;
+}
+.navbar-brand{
+    padding-left: 10px;
+}
+.row {
+    margin-left: 275px;
+}
+form {
+border-style: solid;
+border-color: black;
+border-width: 5px;
+margin-left: 425px;
+width: 40%;
+}
+.form-group {
+    width: 1500px;
+}
+.inner {
+    border-style: solid;
+border-color: black;
+border-width: 5px;
+width: 50%;
+margin-left: 300px;
+}
